@@ -1,4 +1,4 @@
-token = "OTY1MzcwMDQ1Nzc5ODA4MzQ3.YlyM6g.mg0zniMV_32A9tcaor47OKZCS2E" #This is the token generated with discord!
+token = "" #PUT YOUR TOKEN HERE!
 
 #imports!
 
